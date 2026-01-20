@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ニコニコ動画コメントデータ変換スクリプト
-使用方法: python convert.py [input.json] [output.json]
+使用方法: python yt-dlpjson2nicojson.py [input.json] [output.json]
 """
 
 import json
